@@ -1,0 +1,31 @@
+# 核心依赖
+numpy>=1.22.0
+pandas>=1.4.0
+torch>=1.13.0
+scikit-learn>=1.0.0
+statsmodels>=0.13.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# API相关
+fastapi>=0.95.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+starlette>=0.27.0
+slowapi>=0.1.7
+cryptography>=40.0.0
+
+# 数据库和消息队列
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+redis>=4.5.0
+celery>=5.3.0
+
+# 工具和工具库
+python-dotenv>=1.0.0
+httpx>=0.24.0
+loguru>=0.7.0
+
+# 测试
+pytest>=7.0.0
+pytest-asyncio>=0.21.0 
