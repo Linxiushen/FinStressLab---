@@ -205,3 +205,5 @@ FinStressLab提供企业级商业支持和定制化服务:
 
 [![Twitter](https://img.shields.io/twitter/follow/finstresslab?style=social)](https://twitter.com/finstresslab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://linkedin.com/company/finstresslab) 
+
+作者联系方式：1787979356@qq.com
