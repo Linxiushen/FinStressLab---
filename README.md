@@ -192,7 +192,7 @@ FinStressLab提供企业级商业支持和定制化服务:
 - **现场实施**: 专家团队协助部署和集成到现有环境
 - **培训与咨询**: 针对团队的专业培训和性能优化咨询
 
-联系 [sales@finstresslab.com](mailto:sales@finstresslab.com) 了解更多详情
+联系 [1787979356@qq.com] 了解更多详情
 
 ## 📄 许可证
 
